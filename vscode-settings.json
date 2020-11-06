@@ -1,0 +1,82 @@
+{
+  "editor.formatOnSave": false,
+  "editor.minimap.showSlider": "always",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.wrappingIndent": "none",
+  "editor.trimAutoWhitespace": false,
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "all",
+  "editor.renderLineHighlight": "all",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.rulers": [80, 120],
+  
+  "html.format.indentInnerHtml": true,
+  "html.format.preserveNewLines": false,
+  "html.format.wrapAttributes": "force-aligned",
+  "html.format.endWithNewline": true,
+  
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "all",
+  "prettier.arrowParens": "always",
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": false,
+  "prettier.printWidth": 80,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[graphql]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  
+  "files.trimTrailingWhitespace": false,
+  "files.insertFinalNewline": true,
+  
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  
+  "gitlens.views.repositories.files.layout": "tree",
+  
+  "terminal.integrated.rendererType": "dom",
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#00ff4c1f",
+    "editor.lineHighlightBorder": "#ff000023"
+  },
+}
