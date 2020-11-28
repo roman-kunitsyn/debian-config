@@ -79,4 +79,6 @@
     "editor.lineHighlightBackground": "#00ff4c1f",
     "editor.lineHighlightBorder": "#ff000023"
   },
+  
+  "importSorter.generalConfiguration.sortOnBeforeSave": true
 }
